@@ -6,7 +6,7 @@ This program, perfectHash.java, was a submission for a university assignment.
 
 perfectHash.java takes in two inputs, a .txt file containing numeric data and a .txt file containing operations related to that numeric data, and outputs the hash table after perfect hashing to the terminal.
 
-I've included come example data and operations, listed below. Please note that a pair of data and operation files MUST be used together, they get upset if you mix 'n' match.
+I've included some example data and operations, listed below. Please note that a pair of data and operation files MUST be used together, they get upset if you mix 'n' match.
 
 TEST FILES
 -----------
