@@ -1,7 +1,5 @@
 ****PERFECT HASHING****
 
-Welcome to my small corner of the universe.
-
 This program, perfectHash.java, was a submission for a university assignment.
 
 perfectHash.java takes in two inputs, a .txt file containing numeric data and a .txt file containing operations related to that numeric data, and outputs the hash table after perfect hashing to the terminal.
